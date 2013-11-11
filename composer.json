@@ -1,0 +1,15 @@
+{
+    "name": "nix-trainee/tdd-by-example",
+    "authors": [
+        {
+            "name": "Pavel Machekhin",
+            "email": "pavel.machekhin@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    }
+}
